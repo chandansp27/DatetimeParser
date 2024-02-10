@@ -1,5 +1,5 @@
 # DatetimeParser
-Custom date parsing module made using various open source libraries and regex
+Custom date parsing module made combining various open source libraries and regex
 
 ## Libraries used
 
